@@ -3,3 +3,17 @@
     src: url("fonts/Abel/Abel-Regular.ttf") format("truetype")
 }
 
+.page-wrapper {
+    background-color: #E6E6E6;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+}
