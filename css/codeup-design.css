@@ -23,16 +23,6 @@
     font-weight: bolder;
 }
 
-.smallCircle {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: medium;
-    font-weight: bolder;
-}
 
 h1, h2 {
     font-family: anton, sans-serif;
