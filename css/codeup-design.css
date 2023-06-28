@@ -7,7 +7,7 @@
     src: url("fonts/Anton/Anton-Regular.ttf") format("truetype")
 }
 
-.page-wrapper {
+body {
     background-color: #E6E6E6;
 }
 
